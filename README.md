@@ -1,4 +1,4 @@
-# CS440-Intro-AI-Project-4
+# CS440-Intro-AI-Project-4-Colorization
 
 Summary:
 
